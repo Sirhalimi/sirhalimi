@@ -160,52 +160,39 @@ Technical Committee Member.
 
 ---
 
-## `04 // TECH`
+## `04 // STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,fastapi,nodejs,postgres,sqlite,linux,docker,git,github,vscode&perline=8&theme=dark" alt="Tech stack" />
+### Languages
 
-</div>
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white)
 
-<br>
+### Web
 
-```txt
-LANGUAGES      Python · TypeScript · JavaScript
-WEB            Next.js · React · Tailwind CSS
-BACKEND        FastAPI · Node.js · REST APIs
-DATA           PostgreSQL · SQLite
-SYSTEMS        Linux · Docker · Git
-DIRECTION      Networking · Cybersecurity · AI Security
-```
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+### Backend & Data
 
-## `05 // ACTIVITY`
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=white)
 
-<div align="center">
+### Systems
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sirhalimi&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0f6fc&area=true&hide_border=true&custom_title=TAHA.OS%20%2F%2F%20ACTIVITY" width="100%" alt="GitHub activity graph" />
-
-</div>
-
----
-
-## `06 // CONTRIBUTIONS`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirhalimi/sirhalimi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirhalimi/sirhalimi/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sirhalimi/sirhalimi/output/github-contribution-grid-snake-dark.svg">
-</picture>
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
-
-## `07 // CURRENT DIRECTION`
+## `05 // CURRENT DIRECTION`
 
 ```yaml
 status: online
@@ -229,7 +216,7 @@ principles:
 
 ---
 
-## `08 // STATUS`
+## `06 // STATUS`
 
 ```txt
 TAHA.OS
