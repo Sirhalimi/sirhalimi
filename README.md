@@ -108,11 +108,15 @@ My personal digital space for projects, experiments, engineering notes, and ever
 
 <td width="50%" valign="top">
 
-### Product Engineering
+### Iran Auto Market Intelligence
 
-End-to-end product work across interface design, backend systems, automation, integrations, deployment, and production hardening.
+A data-driven platform for analyzing Iran's vehicle market and estimating fair market value from real listings.
 
-`UI/UX` `Backend` `Automation` `Integrations` `Production`
+The system is built around **multi-source listing ingestion, deduplication, suspicious-listing filtering, outlier detection, vehicle normalization, and a market-based Price Engine**.
+
+Planned product layers include **used-car valuation, price history, vehicle comparison, budget-based recommendations, Deal Score, Listing Trust, fraud detection, and market monitoring**.
+
+`Python` `FastAPI` `PostgreSQL` `Redis` `Next.js` `TypeScript` `ML`
 
 </td>
 </tr>
