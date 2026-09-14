@@ -77,7 +77,6 @@ A production digital-commerce platform for automated delivery of digital product
 
 Designed and implemented end-to-end — from **UI/UX and storefront flows** to **backend logic, payment integration, OTP authentication, product delivery automation, admin workflows, and operational tooling**.
 
-Live: **https://subsy.ir**
 
 `WordPress` `WooCommerce` `Automation` `Payments` `OTP` `Product Delivery`
 
@@ -123,25 +122,43 @@ Building end-to-end products across interface design, backend systems, automatio
 
 ## `03 // COMPETITIVE ROBOTICS`
 
-### Achievements
+International competitive robotics experience across **FIRA** and **RoboCup**, with podium finishes in Europe and Asia and hands-on work in autonomous systems, computer vision, and drone robotics.
 
-- 🥇 **1st Place** — **FIRA RoboWorld Cup & Summit 2023** — Germany
-- 🥈 **2nd Place** — **Iran FIRA RoboWorld Cup Open 2023** — Tehran
-- 🥉 **3rd Place** — **RoboCup Asia-Pacific 2019** — Russia
-- 🥉 **3rd Place** — **RoboCup Asia-Pacific 2023** — South Korea
-- 🥉 **3rd Place** — **RoboCup IranOpen 2023** — Tehran
+### Competition Record
 
-### Technical Committee
+| Year | Competition | Result | Location |
+|:---:|---|:---:|---|
+| 2023 | **FIRA RoboWorld Cup & Summit** | 🥇 **1st Place** | Germany |
+| 2023 | **Iran FIRA RoboWorld Cup Open** | 🥈 **2nd Place** | Tehran |
+| 2023 | **RoboCup Asia-Pacific** | 🥉 **3rd Place** | South Korea |
+| 2023 | **RoboCup IranOpen** | 🥉 **3rd Place** | Tehran |
+| 2019 | **RoboCup Asia-Pacific** | 🥉 **3rd Place** | Russia |
 
-**Iran FIRA RoboWorld Cup Open** — Technical Committee Member
+### Technical Committee & Engineering
 
-### Robotics Engineering
+<table>
+<tr>
+<td width="38%" valign="top">
 
-- **Drone Robotics Algorithms** — Implemented flight control, navigation, and automation algorithms for competitive drones.
-- **Robotics Computer Vision** — Developed vision-based algorithms for object detection and tracking in robotics challenges.
-- **Autonomous Systems** — Designed and optimized algorithms to improve autonomous robot performance in competitive environments.
+#### Technical Committee
 
----
+**Iran FIRA RoboWorld Cup Open**
+
+Technical Committee Member with involvement in the technical side of competitive robotics events.
+
+</td>
+
+<td width="62%" valign="top">
+
+#### Technical Contributions
+
+- **Autonomous Drone Systems** — Implemented flight-control, navigation, and automation logic for competitive drones.
+- **Computer Vision** — Built vision pipelines for object detection, tracking, and robotics decision-making.
+- **Algorithm Engineering** — Designed and optimized autonomous behavior and competition algorithms for reliability and performance.
+
+</td>
+</tr>
+</table>
 
 ## `04 // STACK`
 
