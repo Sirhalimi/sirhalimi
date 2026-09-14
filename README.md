@@ -74,13 +74,15 @@ An AI-native organizational system built around specialized agents, structured w
 <tr>
 <td width="50%" valign="top">
 
-### Gift Card & Subscription Automation
+### Autonomous Digital Commerce Engine
 
-A production digital-commerce automation system for selling and delivering **gift cards, subscriptions, gaming products, and other digital goods**.
+A **zero-touch commerce system** for gift cards, subscriptions, gaming products, and other digital goods, built to automate the full fulfillment lifecycle after checkout.
 
-Designed end-to-end across **storefront UX, order lifecycle, payment verification, OTP authentication, automated fulfillment and delivery, admin operations, and exception handling**.
+The orchestration layer connects to **B2B supplier APIs**, checks product availability and pricing, places upstream orders automatically, validates supplier responses, captures the returned digital product, and delivers it to the customer in the same automated workflow — without manual operator involvement.
 
-`WordPress` `WooCommerce` `Automation` `Payments` `OTP` `Digital Delivery`
+Built around **supplier integrations, automated procurement, order-state orchestration, real-time fulfillment, delivery pipelines, failure recovery, auditability, and admin controls**.
+
+`B2B APIs` `Commerce Automation` `Order Orchestration` `Automated Procurement` `Instant Fulfillment` `WooCommerce`
 
 </td>
 
