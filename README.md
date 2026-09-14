@@ -122,41 +122,25 @@ End-to-end product work across interface design, backend systems, automation, in
 
 ## `03 // COMPETITIVE ROBOTICS`
 
-International competitive robotics experience across **FIRA** and **RoboCup**, with podium finishes in Europe and Asia and hands-on work in autonomous systems, computer vision, and drone robotics.
+International competitive robotics experience across **FIRA** and **RoboCup**, focused on autonomous systems, computer vision, and competition-grade robotics software.
 
-### Competition Record
+### Selected Results
 
-| Year | Competition | Result | Location |
-|:---:|---|:---:|---|
-| 2023 | **FIRA RoboWorld Cup & Summit** | 🥇 **1st Place** | Germany |
-| 2023 | **Iran FIRA RoboWorld Cup Open** | 🥈 **2nd Place** | Tehran |
-| 2023 | **RoboCup Asia-Pacific** | 🥉 **3rd Place** | South Korea |
-| 2023 | **RoboCup IranOpen** | 🥉 **3rd Place** | Tehran |
-| 2019 | **RoboCup Asia-Pacific** | 🥉 **3rd Place** | Russia |
+| Competition | Result | Location |
+|---|:---:|---|
+| **FIRA RoboWorld Cup & Summit 2023** | 🥇 **1st Place** | Germany |
+| **Iran FIRA RoboWorld Cup Open 2023** | 🥈 **2nd Place** | Tehran |
+| **RoboCup Asia-Pacific 2023** | 🥉 **3rd Place** | South Korea |
+| **RoboCup IranOpen 2023** | 🥉 **3rd Place** | Tehran |
+| **RoboCup Asia-Pacific 2019** | 🥉 **3rd Place** | Russia |
 
-<table>
-<tr>
-<td width="38%" valign="top">
+### Technical Role
 
-### Technical Committee
+**Technical Committee Member — Iran FIRA RoboWorld Cup Open**
 
-**Iran FIRA RoboWorld Cup Open**
+Worked across competition robotics systems with emphasis on:
 
-Technical Committee Member.
-
-</td>
-
-<td width="62%" valign="top">
-
-### Engineering
-
-- **Autonomous Drone Systems** — Flight-control, navigation, and automation logic for competitive drones.
-- **Computer Vision** — Vision pipelines for object detection, tracking, and robotics decision-making.
-- **Algorithm Engineering** — Autonomous behavior and competition algorithms optimized for reliability and performance.
-
-</td>
-</tr>
-</table>
+`Autonomous Drones` · `Computer Vision` · `Navigation` · `Object Tracking` · `Algorithm Design` · `Robotics Automation`
 
 ---
 
