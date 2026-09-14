@@ -2,16 +2,19 @@
 
 # TAHA.OS
 
-### SOFTWARE · SYSTEMS · SECURITY · AI
+<a href="https://github.com/sirhalimi">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=760&lines=SOFTWARE+%C3%97+SYSTEMS+%C3%97+SECURITY+%C3%97+AI;Building+real-world+products;Competitive+Robotics+%2B+Product+Engineering;TAHA.OS+%2F%2F+SYSTEM+ONLINE" alt="TAHA.OS typing animation" />
+</a>
 
 **Computer Science Student @ IAU**
 
-Building real products, intelligent systems, and security-focused software.
+Building products, intelligent systems, and security-focused software.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sirhalimi-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sirhalimi)
-![Portfolio](https://img.shields.io/badge/TAHA.OS-COMING%20SOON-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-SYSTEMS_%2F_SECURITY-0D1117?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/TAHA.OS-IN_PROGRESS-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -35,7 +38,7 @@ Focus
 
 I build practical software with an emphasis on **clean architecture, automation, security, and real-world usability**.
 
-My current direction sits at the intersection of software engineering, systems, cybersecurity, and AI.
+My current direction sits at the intersection of **software engineering, systems, cybersecurity, and AI**.
 
 ---
 
@@ -47,11 +50,11 @@ My current direction sits at the intersection of software engineering, systems, 
 
 ### IsThatWorth
 
-A purchase decision intelligence platform designed to answer a simple question:
+A purchase decision intelligence platform built to answer one question:
 
 **Is this actually worth buying?**
 
-It combines price intelligence, alternatives, timing, confidence, and decision logic.
+Price intelligence, alternatives, timing, confidence, and decision logic.
 
 `Next.js` `FastAPI` `PostgreSQL` `AI` `Data`
 
@@ -71,14 +74,13 @@ An AI-native organizational system built around specialized agents, structured w
 <tr>
 <td width="50%" valign="top">
 
-### SubSy
+### SubSy · `subsy.ir`
 
 A production digital-commerce platform for automated delivery of digital products and subscriptions.
 
-Designed and implemented end-to-end — from **UI/UX and storefront flows** to **backend logic, payment integration, OTP authentication, product delivery automation, admin workflows, and operational tooling**.
+Designed and implemented end-to-end — from **UI/UX and storefront flows** to **backend logic, payment integration, OTP authentication, automated product delivery, admin workflows, and operational tooling**.
 
-
-`WordPress` `WooCommerce` `Automation` `Payments` `OTP` `Product Delivery`
+`WordPress` `WooCommerce` `Automation` `Payments` `OTP`
 
 </td>
 
@@ -86,7 +88,7 @@ Designed and implemented end-to-end — from **UI/UX and storefront flows** to *
 
 ### Cybersecurity Projects
 
-Hands-on work around Linux, networking, incident investigation, automation, and security fundamentals.
+Hands-on work around Linux, networking, incident investigation, scripting, automation, and security fundamentals.
 
 `Linux` `Networking` `Security` `Python`
 
@@ -100,8 +102,6 @@ Hands-on work around Linux, networking, incident investigation, automation, and 
 
 My personal digital space for projects, experiments, engineering notes, and everything I'm building.
 
-**Coming soon.**
-
 `Portfolio` `Projects` `Research`
 
 </td>
@@ -110,7 +110,7 @@ My personal digital space for projects, experiments, engineering notes, and ever
 
 ### Product Engineering
 
-Building end-to-end products across interface design, backend systems, automation, integrations, deployment, and production hardening.
+End-to-end product work across interface design, backend systems, automation, integrations, deployment, and production hardening.
 
 `UI/UX` `Backend` `Automation` `Integrations` `Production`
 
@@ -134,66 +134,78 @@ International competitive robotics experience across **FIRA** and **RoboCup**, w
 | 2023 | **RoboCup IranOpen** | 🥉 **3rd Place** | Tehran |
 | 2019 | **RoboCup Asia-Pacific** | 🥉 **3rd Place** | Russia |
 
-### Technical Committee & Engineering
-
 <table>
 <tr>
 <td width="38%" valign="top">
 
-#### Technical Committee
+### Technical Committee
 
 **Iran FIRA RoboWorld Cup Open**
 
-Technical Committee Member with involvement in the technical side of competitive robotics events.
+Technical Committee Member.
 
 </td>
 
 <td width="62%" valign="top">
 
-#### Technical Contributions
+### Engineering
 
-- **Autonomous Drone Systems** — Implemented flight-control, navigation, and automation logic for competitive drones.
-- **Computer Vision** — Built vision pipelines for object detection, tracking, and robotics decision-making.
-- **Algorithm Engineering** — Designed and optimized autonomous behavior and competition algorithms for reliability and performance.
+- **Autonomous Drone Systems** — Flight-control, navigation, and automation logic for competitive drones.
+- **Computer Vision** — Vision pipelines for object detection, tracking, and robotics decision-making.
+- **Algorithm Engineering** — Autonomous behavior and competition algorithms optimized for reliability and performance.
 
 </td>
 </tr>
 </table>
 
-## `04 // STACK`
+---
+
+## `04 // TECH`
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,fastapi,nodejs,postgres,sqlite,linux,docker,git,github,vscode&perline=8&theme=dark" alt="Tech stack" />
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white)
+</div>
 
-### Web
+<br>
 
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=white)
+```txt
+LANGUAGES      Python · TypeScript · JavaScript
+WEB            Next.js · React · Tailwind CSS
+BACKEND        FastAPI · Node.js · REST APIs
+DATA           PostgreSQL · SQLite
+SYSTEMS        Linux · Docker · Git
+DIRECTION      Networking · Cybersecurity · AI Security
+```
 
-### Backend & Data
+---
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=white)
+## `05 // ACTIVITY`
 
-### Systems
+<div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sirhalimi&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0f6fc&area=true&hide_border=true&custom_title=TAHA.OS%20%2F%2F%20ACTIVITY" width="100%" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-## `05 // CURRENT DIRECTION`
+## `06 // CONTRIBUTIONS`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirhalimi/sirhalimi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirhalimi/sirhalimi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sirhalimi/sirhalimi/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+## `07 // CURRENT DIRECTION`
 
 ```yaml
 status: online
@@ -201,11 +213,12 @@ status: online
 mission:
   build: real-world products
   improve: engineering depth
-  learn:
-    - Linux
-    - Networking
-    - Cybersecurity
-    - AI Security
+
+learning:
+  - Linux
+  - Networking
+  - Cybersecurity
+  - AI Security
 
 principles:
   - build useful things
@@ -216,37 +229,21 @@ principles:
 
 ---
 
-## `06 // GITHUB`
+## `08 // STATUS`
 
 ```txt
-github.com/sirhalimi
+TAHA.OS
+────────────────────────────────────────
 
-PROFILE
-├── Public projects
-├── Production builds
-├── Systems & security work
-└── Competitive robotics background
-```
-
-> GitHub activity and contribution history are available directly on my profile.
-
----
-
-## `07 // STATUS`
-
-```txt
-SYSTEM STATUS
-────────────────────────────────────
-
-[ ACTIVE ]     Building products
-[ ACTIVE ]     Software Engineering
+[ ACTIVE ]     Product Engineering
+[ ACTIVE ]     Building real products
 [ LEARNING ]   Linux / Systems
 [ LEARNING ]   Networking
 [ LEARNING ]   Cybersecurity
 [ EXPLORING ]  AI Security
 
-────────────────────────────────────
-TAHA.OS // SYSTEM ONLINE
+────────────────────────────────────────
+SYSTEM ONLINE // NEXT BUILD IN PROGRESS
 ```
 
 ---
