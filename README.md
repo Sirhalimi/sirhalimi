@@ -218,19 +218,17 @@ principles:
 
 ## `06 // GITHUB`
 
-<div align="center">
+```txt
+github.com/sirhalimi
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=sirhalimi&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&include_all_commits=true"
-/>
+PROFILE
+├── Public projects
+├── Production builds
+├── Systems & security work
+└── Competitive robotics background
+```
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirhalimi&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e"
-/>
-
-</div>
+> GitHub activity and contribution history are available directly on my profile.
 
 ---
 
@@ -263,6 +261,6 @@ TAHA.OS // SYSTEM ONLINE
 
 <br>
 
-**Portfolio coming soon.**
+**SYSTEM ONLINE // NEXT BUILD IN PROGRESS**
 
 </div>
