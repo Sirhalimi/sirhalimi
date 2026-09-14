@@ -36,9 +36,9 @@ Focus
 └── Product Engineering
 ```
 
-I build practical software with an emphasis on **clean architecture, automation, security, and real-world usability**.
+I work across **software engineering, systems, automation, and security**, with a focus on building reliable products and production-ready infrastructure.
 
-My current direction sits at the intersection of **software engineering, systems, cybersecurity, and AI**.
+Current areas of focus include **Linux, networking, cybersecurity, AI-assisted systems, and secure product engineering**.
 
 ---
 
