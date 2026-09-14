@@ -236,8 +236,3 @@ SYSTEM ONLINE // NEXT BUILD IN PROGRESS
 
 `github.com/sirhalimi`
 
-<br>
-
-**SYSTEM ONLINE // NEXT BUILD IN PROGRESS**
-
-</div>
