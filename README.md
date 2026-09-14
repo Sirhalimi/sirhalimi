@@ -74,13 +74,13 @@ An AI-native organizational system built around specialized agents, structured w
 <tr>
 <td width="50%" valign="top">
 
-### SubSy · `subsy.ir`
+### Gift Card & Subscription Automation
 
-A production digital-commerce platform for automated delivery of digital products and subscriptions.
+A production digital-commerce automation system for selling and delivering **gift cards, subscriptions, gaming products, and other digital goods**.
 
-Designed and implemented end-to-end — from **UI/UX and storefront flows** to **backend logic, payment integration, OTP authentication, automated product delivery, admin workflows, and operational tooling**.
+Designed end-to-end across **storefront UX, order lifecycle, payment verification, OTP authentication, automated fulfillment and delivery, admin operations, and exception handling**.
 
-`WordPress` `WooCommerce` `Automation` `Payments` `OTP`
+`WordPress` `WooCommerce` `Automation` `Payments` `OTP` `Digital Delivery`
 
 </td>
 
