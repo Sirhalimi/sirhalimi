@@ -71,6 +71,20 @@ An AI-native organizational system built around specialized agents, structured w
 <tr>
 <td width="50%" valign="top">
 
+### SubSy
+
+A production digital-commerce platform for automated delivery of digital products and subscriptions.
+
+Designed and implemented end-to-end — from **UI/UX and storefront flows** to **backend logic, payment integration, OTP authentication, product delivery automation, admin workflows, and operational tooling**.
+
+Live: **https://subsy.ir**
+
+`WordPress` `WooCommerce` `Automation` `Payments` `OTP` `Product Delivery`
+
+</td>
+
+<td width="50%" valign="top">
+
 ### Cybersecurity Projects
 
 Hands-on work around Linux, networking, incident investigation, automation, and security fundamentals.
@@ -78,7 +92,9 @@ Hands-on work around Linux, networking, incident investigation, automation, and 
 `Linux` `Networking` `Security` `Python`
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### TAHA.OS
@@ -90,12 +106,44 @@ My personal digital space for projects, experiments, engineering notes, and ever
 `Portfolio` `Projects` `Research`
 
 </td>
+
+<td width="50%" valign="top">
+
+### Product Engineering
+
+Building end-to-end products across interface design, backend systems, automation, integrations, deployment, and production hardening.
+
+`UI/UX` `Backend` `Automation` `Integrations` `Production`
+
+</td>
 </tr>
 </table>
 
 ---
 
-## `03 // STACK`
+## `03 // COMPETITIVE ROBOTICS`
+
+### Achievements
+
+- 🥇 **1st Place** — **FIRA RoboWorld Cup & Summit 2023** — Germany
+- 🥈 **2nd Place** — **Iran FIRA RoboWorld Cup Open 2023** — Tehran
+- 🥉 **3rd Place** — **RoboCup Asia-Pacific 2019** — Russia
+- 🥉 **3rd Place** — **RoboCup Asia-Pacific 2023** — South Korea
+- 🥉 **3rd Place** — **RoboCup IranOpen 2023** — Tehran
+
+### Technical Committee
+
+**Iran FIRA RoboWorld Cup Open** — Technical Committee Member
+
+### Robotics Engineering
+
+- **Drone Robotics Algorithms** — Implemented flight control, navigation, and automation algorithms for competitive drones.
+- **Robotics Computer Vision** — Developed vision-based algorithms for object detection and tracking in robotics challenges.
+- **Autonomous Systems** — Designed and optimized algorithms to improve autonomous robot performance in competitive environments.
+
+---
+
+## `04 // STACK`
 
 <div align="center">
 
@@ -128,7 +176,7 @@ My personal digital space for projects, experiments, engineering notes, and ever
 
 ---
 
-## `04 // CURRENT DIRECTION`
+## `05 // CURRENT DIRECTION`
 
 ```yaml
 status: online
@@ -151,7 +199,7 @@ principles:
 
 ---
 
-## `05 // GITHUB`
+## `06 // GITHUB`
 
 <div align="center">
 
@@ -169,7 +217,7 @@ principles:
 
 ---
 
-## `06 // STATUS`
+## `07 // STATUS`
 
 ```txt
 SYSTEM STATUS
