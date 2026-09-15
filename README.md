@@ -90,9 +90,13 @@ Built around **supplier integrations, automated procurement, order-state orchest
 
 ### Cybersecurity Projects
 
-Hands-on work around Linux, networking, incident investigation, scripting, automation, and security fundamentals.
+Hands-on work focused on **Linux security, networking, incident investigation, traffic analysis, and defensive automation**.
 
-`Linux` `Networking` `Security` `Python`
+Built and practiced around **network reconnaissance, service enumeration, log and packet analysis, system hardening, basic vulnerability assessment, incident-response workflows, and security-focused scripting**.
+
+Current technical focus includes **Linux internals, network security, web security fundamentals, operational troubleshooting, evidence-driven investigation, and AI security**.
+
+`Linux` `Networking` `Security` `Python` `Nmap` `Wireshark` `Incident Response` `Automation`
 
 </td>
 </tr>
