@@ -122,6 +122,22 @@ Planned product layers include **used-car valuation, price history, vehicle comp
 
 </td>
 </tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### Global Digital Pricing Intelligence Engine
+
+A data platform and API for discovering the **lowest verified price for digital products across different countries, regional storefronts, and purchase channels**.
+
+The system collects and normalizes pricing for subscriptions, gaming services, AI tools, software, and virtual currencies, then compares equivalent plans across markets to identify the cheapest legitimate option. It also tracks **active offers, free trials, regional discounts, renewal costs, price history, taxes, eligibility requirements, freshness, and source confidence** before ranking results.
+
+Built around **official-source collectors, product/SKU normalization, regional market modeling, offer intelligence, FX normalization, evidence provenance, freshness scoring, and ranking logic**.
+
+`Next.js` `TypeScript` `FastAPI` `Python` `PostgreSQL` `Redis` `Playwright` `Docker` `Data Pipelines`
+
+</td>
+</tr>
 </table>
 
 ---
